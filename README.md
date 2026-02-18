@@ -30,6 +30,6 @@ This dashboard provides a comprehensive overview of HR analytics data, offering 
 
 **Education Field-wise Attrition**: Bar chart showing attrition rates for various education fields.
 
-Attrition Rate by Gender for Different Age Groups: Radar chart comparing attrition rates for different age groups and genders.
+**Attrition Rate by Gender for Different Age Groups**: Radar chart comparing attrition rates for different age groups and genders.
 
 This repositry contains Power BI Dashboard, Dashboard Image, and Dataset.
